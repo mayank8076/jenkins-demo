@@ -6,6 +6,6 @@ print('push triggered')
 print('25-08-2022')
 print('hello')
 print('poll scm')
-
+print(' build trigger')
 
 
